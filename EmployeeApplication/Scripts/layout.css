@@ -1,0 +1,75 @@
+﻿.AdminContent {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.AdminContent tr td {
+   padding: 0px;
+}
+.AdminLeft {
+    width: 250px;
+    height: 100%;
+    vertical-align: top;
+    z-index: 20;
+}
+
+.AdminTitleBar {
+    -moz-border-top-left-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 0px;
+    border-spacing: 5px;
+    width: 100%;
+    height: 50px;
+}
+
+.AdminTitleBarPopup {
+    -moz-border-top-left-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+}
+
+.AdminTitle {
+    white-space: nowrap;
+    padding-right: 20px !important;
+    font-size:medium;
+}
+
+.AdminTitleImage {
+}
+
+.AdminRight {
+    width: 100%;
+    vertical-align: top;
+    z-index: 20;
+}
+
+.AdminRightInner {
+    height: 100%;
+}
+.gradientbackground {
+    background: #466368;
+    background: radial-gradient(#857b7b, #dffbf9);
+    border-radius: 6px;
+    height: 100%;
+}
+.feature-extended {
+    padding-top: 48px;
+}
+.h1 {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin: 0px 0px 30px 0px;
+    text-align: center;
+    font-weight:bold;
+}
+
+.h2 {
+    color: #000;
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
